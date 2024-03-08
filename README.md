@@ -1,2 +1,5 @@
 # NaisTrainingDiary [Spanish Version]
-El juego de NaisTrainingDiary pero en español y con setup
+
+![Loli count](https://count.getloli.com/get/@anime-api?theme=gelbooru)
+
+Conversations in Spanish of the +18 visual novel Nais Training Diary
