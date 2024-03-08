@@ -48,4 +48,4 @@ The base translation of this version is **tr3m0rdj**
 
 # Official Developers
 
-<a href="patreon.com/bananaking"><img src="https://cdn.playmeow.com/upload/user/8c8acd3b/0d50/4d83/a834/fca0b16181bb/avatar.png?Fri%20Jan%2021%202022%2005:42:49%20GMT+0800%20(%E5%8F%B0%E5%8C%97%E6%A8%99%E6%BA%96%E6%99%82%E9%96%93)" height="200" width="200" /></a>
+<a href="https://www.patreon.com/bananaking"><img src="https://cdn.playmeow.com/upload/user/8c8acd3b/0d50/4d83/a834/fca0b16181bb/avatar.png?Fri%20Jan%2021%202022%2005:42:49%20GMT+0800%20(%E5%8F%B0%E5%8C%97%E6%A8%99%E6%BA%96%E6%99%82%E9%96%93)" height="200" width="200" /></a>
