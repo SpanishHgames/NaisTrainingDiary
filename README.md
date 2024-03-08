@@ -32,6 +32,13 @@ https://github.com/SpanishHgames/NaisTrainingDiary/blob/main/StreamingAssets/tex
 <br>
 **Official Game Distributor is for playmeow**
 
+# Pics
+
+<a href=""><img src="https://github.com/SpanishHgames/NaisTrainingDiary/blob/main/.github/pics/Nai-pics1.png?raw=true" height="500" width="500" /></a>
+<a href=""><img src="https://github.com/SpanishHgames/NaisTrainingDiary/blob/main/.github/pics/Nai-pics2.png?raw=true" height="500" width="500" /></a>
+<a href=""><img src="https://github.com/SpanishHgames/NaisTrainingDiary/blob/main/.github/pics/Nai-pics3.png?raw=true" height="500" width="500" /></a>
+<a href=""><img src="https://github.com/SpanishHgames/NaisTrainingDiary/blob/main/.github/pics/Nai-pics4.png?raw=true" height="500" width="500" /></a>
+
 # Contributors
 
 Thank you very much for helping in the project ❤
