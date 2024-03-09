@@ -24,7 +24,7 @@ We don't have any knowledge of that `information` because the only thing we did 
 
 # Important
 
-The game's dialogues in `Spanish are not 100%` translated, they are `20% translated`, but if you want to help us you can enter the repository to the following file
+The game's dialogues in `Spanish are not 100%` translated, they are `24% translated`, but if you want to help us you can enter the repository to the following file
 
 https://github.com/SpanishHgames/NaisTrainingDiary/blob/main/StreamingAssets/textEn.json
 
@@ -46,6 +46,7 @@ Thank you very much for helping in the project ❤
 <a href="https://github.com/StaffV77"><img src="https://avatars.githubusercontent.com/u/107765373?v=4" height="128" width="128" /></a>
 <a href="https://github.com/Sstudiosdev"><img src="https://avatars.githubusercontent.com/u/149289426?v=4" height="128" width="128" /></a>
 <a href="https://github.com/SpanishHgames"><img src="https://avatars.githubusercontent.com/u/162644772?s=400&u=1b44034b08d8cc6f9e867878c4298d0f4dd3ff27&v=4" height="128" width="128" /></a>
+<a href="https://github.com/api-tsukasa"><img src="https://avatars.githubusercontent.com/u/142162315?v=4" height="128" width="128" /></a>
 
 # Base Translation
 
