@@ -24,7 +24,7 @@ We don't have any knowledge of that `information` because the only thing we did 
 
 # Important
 
-The game's dialogues in `Spanish are not 100%` translated, they are `16.44% translated`, but if you want to help us you can enter the repository to the following file
+The game's dialogues in `Spanish are not 100%` translated, they are `16.47% translated`, but if you want to help us you can enter the repository to the following file
 
 https://github.com/SpanishHgames/NaisTrainingDiary/blob/main/StreamingAssets/textEn.json
 
